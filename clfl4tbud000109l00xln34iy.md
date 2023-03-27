@@ -13,7 +13,7 @@ tags: tree, leetcode, maximum, depth
 
 ### Problem
 
-Given the root of the binary tree, find it's maximum depth. This is similar to the Leetcode Problem - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+Given the root of the binary tree, find its maximum depth. This is similar to the Leetcode Problem - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 ### Approach
 
