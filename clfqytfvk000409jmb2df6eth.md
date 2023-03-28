@@ -1,10 +1,10 @@
 ---
-title: "How to Build and Deploy React App to GitHub Pages"
+title: "How to Build and Deploy React App on GitHub Pages"
 seoTitle: "How to build and deploy React App to GitHub Pages"
 seoDescription: "How to build and deploy React App to GitHub Pages in simple steps."
 datePublished: Mon Mar 27 2023 15:09:42 GMT+0000 (Coordinated Universal Time)
 cuid: clfqytfvk000409jmb2df6eth
-slug: how-to-build-and-deploy-react-app-to-github-pages
+slug: how-to-build-and-deploy-react-app-on-github-pages
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679928368241/f8c95570-08ad-45de-8a23-0c8e56da758a.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1679929705728/8f809569-9313-4381-ab80-47a9e9ffc2e9.jpeg
 tags: repository, github, reactjs, githubpages, pages
