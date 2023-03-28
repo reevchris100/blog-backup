@@ -15,6 +15,10 @@ tags: app, github, reactjs, deploy, vercel
 
 <iframe width="820" height="530" src="https://vercel-react-app-eight-ebon.vercel.app/"></iframe>
 
-### GitHub Page URL
+### Vercel App URL
 
 [Simple React App](https://vercel-react-app-eight-ebon.vercel.app/)
+
+### How to build and deploy Simple React App on Vercel
+
+[How to Build and Deploy React App on Vercel](https://code-buzz.com/how-to-build-and-deploy-react-app-on-vercel)
