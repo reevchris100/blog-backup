@@ -17,12 +17,12 @@ tags: github, projects, reactjs, application, githubpages
 
 ### GitHub Page URL
 
-[https://reevchris100.github.io/simple-react-app/](https://reevchris100.github.io/simple-react-app/)
+[Simple React App](https://reevchris100.github.io/simple-react-app/)
 
 ### GitHub Page Repository
 
-[https://github.com/reevchris100/simple-react-app](https://github.com/reevchris100/simple-react-app)
+[Page Repository](https://github.com/reevchris100/simple-react-app)
 
 ### How to Build and Deploy Simple React App on GitHub Pages
 
-[https://code-buzz.com/how-to-build-and-deploy-react-app-to-github-pages](https://code-buzz.com/how-to-build-and-deploy-react-app-to-github-pages)
+[How to Build and Deploy React App](https://code-buzz.com/how-to-build-and-deploy-react-app-to-github-pages)
