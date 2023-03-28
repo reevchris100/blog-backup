@@ -50,8 +50,6 @@ git push origin master
 
 1. Go to [Vercel](https://vercel.com/new) and import the project which is the above GitHub repository.
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680008148052/89c67f0d-3f7c-4dee-a3e8-2548d2e0726e.png align="center")
-    
 2. Click on deploy and wait for a few seconds for the deployment to be completed.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680008236753/f46a82f4-dfd7-43d4-bbac-70cd5797bc74.png align="center")
