@@ -11,7 +11,7 @@ tags: github, projects, reactjs, application, githubpages
 
 ---
 
-### Preview
+### Project Preview
 
 <iframe width="820" height="530" src="https://reevchris100.github.io/simple-react-app/"></iframe>
 
