@@ -50,13 +50,12 @@ git push origin master
 
 1. Go to [Vercel](https://vercel.com/new) and import the project which is the above GitHub repository.
     
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680008236753/f46a82f4-dfd7-43d4-bbac-70cd5797bc74.png align="center")
-
-1. Click on deploy and wait for a few seconds for the deployment to be completed.
+2. Click on deploy and wait for a few seconds for the deployment to be completed.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680008236753/f46a82f4-dfd7-43d4-bbac-70cd5797bc74.png align="center")
     
-2. Now you can test the app deployed by hitting the below URL.
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680008236753/f46a82f4-dfd7-43d4-bbac-70cd5797bc74.png align="center")
+    
+3. Now you can test the app deployed by hitting the below URL.
     
     [https://vercel-react-app-eight-ebon.vercel.app/](http://vercel-react-app-eight-ebon.vercel.app)
