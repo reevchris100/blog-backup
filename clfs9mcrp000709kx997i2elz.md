@@ -41,21 +41,20 @@ tags: github, reactjs, application, deploy, vercel
     
 4. Push the code changes to `master` branch.
     
-
-```bash
-git add .
-git commit -m "Configure React app for deployment to Vercel"
-git push origin master
-```
-
-1. Go to [Vercel](https://vercel.com/new) and import the project which is the above GitHub repository.
+    ```bash
+    git add .
+    git commit -m "Configure React app for deployment to Vercel"
+    git push origin master
+    ```
     
-2. Click on deploy and wait for a few seconds for the deployment to be completed.
+5. Go to [Vercel](https://vercel.com/new) and import the project which is the above GitHub repository.
+    
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680112561581/b2bb792e-bfaa-4cf8-840d-24b9fa6cd526.png align="center")
+    
+6. Click on deploy and wait for a few seconds for the deployment to be completed.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680008236753/f46a82f4-dfd7-43d4-bbac-70cd5797bc74.png align="center")
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680008236753/f46a82f4-dfd7-43d4-bbac-70cd5797bc74.png align="center")
-    
-3. Now you can test the app deployed by hitting the below URL.
+7. Now you can test the app deployed by hitting the below URL.
     
     [https://vercel-react-app-eight-ebon.vercel.app/](http://vercel-react-app-eight-ebon.vercel.app)
