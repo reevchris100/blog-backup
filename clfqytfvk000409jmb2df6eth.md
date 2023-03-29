@@ -44,7 +44,7 @@ tags: repository, github, reactjs, githubpages, pages
       "name": "my-app",
       "version": "0.1.0",
     +  "homepage": "https://gitname.github.io/simple-react-app",
-      "private": true,	
+      "private": true,
     ```
     
 5. Add deployment scripts as well to package.json.
@@ -71,14 +71,13 @@ tags: repository, github, reactjs, githubpages, pages
     
 8. Save the source code of the react app in `master` branch and the react app code in `gh-pages` .
     
-
-```bash
-git add .
-git commit -m "Configure React app for deployment to GitHub Pages"
-git push origin master
-```
-
-1. Now you can test the app deployed by hitting the below URL.
+    ```bash
+    git add .
+    git commit -m "Configure React app for deployment to GitHub Pages"
+    git push origin master
+    ```
+    
+9. Now you can test the app deployed by clicking on the below URL.
     
     Page - [https://reevchris100.github.io/simple-react-app/](https://reevchris100.github.io/simple-react-app/)
     
