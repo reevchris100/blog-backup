@@ -22,16 +22,16 @@ tags: repository, github, reactjs, githubpages, pages
 
 ### Steps
 
-1. Create an empty GitHub repository.
+1. Create an empty GitHub repository with visibility as public.
     
-2. Create a simple React app
+2. Create a simple React app through npm.
     
     ```javascript
     npx create-react-app simple-react-app
     cd simple-react-app
     ```
     
-3. Install GitHub pages
+3. Install GitHub pages.
     
     ```javascript
     npm install gh-pages --save-dev
