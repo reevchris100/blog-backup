@@ -19,6 +19,10 @@ tags: app, github, reactjs, deploy, vercel
 
 [Simple React App](https://vercel-react-app-eight-ebon.vercel.app/)
 
+### GitHub Repository
+
+[Repository](https://github.com/reevchris100/vercel-react-app)
+
 ### How to build and deploy Simple React App on Vercel
 
 [How to Build and Deploy React App on Vercel](https://code-buzz.com/how-to-build-and-deploy-react-app-on-vercel)
