@@ -57,4 +57,5 @@ tags: github, reactjs, application, deploy, vercel
     
 7. Now you can test the app deployed by hitting the below URL.
     
-    [https://vercel-react-app-eight-ebon.vercel.app/](http://vercel-react-app-eight-ebon.vercel.app)
+    Vercel App - [https://vercel-react-app-eight-ebon.vercel.app/](http://vercel-react-app-eight-ebon.vercel.app)  
+    Repository - [https://github.com/reevchris100/vercel-react-app/tree/master](https://github.com/reevchris100/simple-react-app/tree/master)
