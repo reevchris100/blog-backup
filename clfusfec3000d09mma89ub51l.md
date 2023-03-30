@@ -30,7 +30,7 @@ tags: github, reactjs, deploy, netlify, create-react-app
     
     ```javascript
     npx create-react-app netlify-react-app
-    cd vercel-react-app
+    cd netlify-react-app
     ```
     
 3. Set Github remote origin URL.
