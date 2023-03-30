@@ -5,8 +5,8 @@ seoDescription: "How to build and deploy react app to Netlify using GitHub in si
 datePublished: Thu Mar 30 2023 07:21:54 GMT+0000 (Coordinated Universal Time)
 cuid: clfusfec3000d09mma89ub51l
 slug: how-to-build-and-deploy-react-app-on-netlify
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680160522975/f67011c6-97f3-4ded-b680-5183bd58e11c.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680160846011/22e5c848-ed64-408a-bed2-5c4fb0e1c652.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680160997336/23d7cbfa-c6d5-4916-8ab5-079f0a91d386.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680161019121/36905656-c008-4d5f-b0ef-05e7acb3da3d.jpeg
 tags: github, reactjs, deploy, netlify, create-react-app
 
 ---
